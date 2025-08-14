@@ -56,5 +56,5 @@
 <div align="center">
 💌 *Let’s connect and learn together!*  
 <a href="https://www.linkedin.com/in/rowida-hany-580b09352"><img src="https://img.shields.io/badge/LinkedIn-Rowida_Hany-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:rowidahany_084@gmail.com"><img src="https://img.shields.io/badge/Email-Rowida_Hany-red?style=flat&logo=gmail&logoColor=white"></a>
+<a href="mailto:rowidahany_084@gmail.com"><img src="https://img.shields.io/badge/Email-rowidahany_084-red?style=flat&logo=gmail&logoColor=white"></a>
 </div>
