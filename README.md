@@ -1,6 +1,5 @@
 <div align="center" width="50%">
 
-
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 ### 👋 Hi there, I'm **Rowida Hany**  
@@ -30,7 +29,7 @@
 ---
 
 ## 📌 About Me
-- 🌱 Currently learning **C++**, **Problem Solving**, and Web Basics  
+- 🌱 Currently learning **C++**, **Problem Solving**, **Python**, and Web Basics  
 - 🏆 Interested in **Competitive Programming** & **IoT**  
 - 💬 Ask me about **C++ Projects**, **PC Building**, or **University Life**  
 - ⚡ Fun fact: I turn ☕ into clean & optimized code  
@@ -50,6 +49,7 @@
 - Build real-life **C++ Projects**
 - Participate in **Programming Contests**
 - Start learning **IoT & Embedded Systems**
+- Improve **Python Skills** for scripting & automation
 
 ---
 
